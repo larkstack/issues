@@ -9,8 +9,25 @@ Lark is a Dart web framework with:
 - server-side rendering (SSR)
 - a built-in CLI for scaffolding, dev, and production builds
 
-## Docs
-Official docs are available at https://larkstack.com
+----
+
+⚠️ This repository is the public issue tracker for Lark.
+
+Lark is not available for external code contributions as at now.
+
+All development happens privately and is implemented internally by automated AI agents.
+
+Use this repository to:
+
+- Report bugs
+
+- Request features
+
+- Track fixes and releases
+
+For documentation and guides: https://larkstack.com
+
+---
 
 ## Install
 
